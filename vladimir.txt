@@ -1,1 +1,2 @@
-Ovo je verba sa kursa za git
+Ovo je vezba sa kursa za git.
+izmena texta
